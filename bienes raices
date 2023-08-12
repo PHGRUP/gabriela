@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Gabriel García - Bienes Raíces</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Gabriel García - Bienes Raíces</h1>
+        <nav>
+            <ul>
+                <li><a href="#inicio">Inicio</a></li>
+                <li><a href="#propiedades">Propiedades</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="inicio">
+        <h2>Bienvenidos a Gabriel García - Bienes Raíces</h2>
+        <p>Somos una empresa dedicada a la venta y alquiler de propiedades en la región de Manabí. Contamos con una amplia selección de propiedades para satisfacer todas sus necesidades.</p>
+    </section>
+
+    <section id="propiedades">
+        <h2>Nuestras Propiedades</h2>
+        <!-- Aquí puedes agregar información sobre las propiedades disponibles -->
+    </section>
+
+    <section id="contacto">
+        <h2>Contacto</h2>
+        <p>Si desea obtener más información sobre nuestras propiedades o servicios, no dude en ponerse en contacto con nosotros.</p>
+        <!-- Aquí puedes agregar un formulario de contacto -->
+    </section>
+
+    <footer>
+        <p>© 2023 Gabriel García - Bienes Raíces. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
